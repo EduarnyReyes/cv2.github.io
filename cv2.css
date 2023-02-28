@@ -1,0 +1,47 @@
+:root {
+
+
+ }
+
+ 
+ body {
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslateblue
+    
+ }
+ header, section {
+    width: 960px;
+    margin: 0 auto;
+    font-family: 'PT Sans', sans-serif;
+ }
+
+ img {
+    width: 200px;
+    height: 200px;
+    margin-right: 16px;
+ }
+uk {
+    list-style-type: circle;
+}
+
+
+ header {
+    display: flex;
+ }
+
+ section {
+    display: flex;
+ }
+
+ article {
+    width: 60%;
+ }
+
+ header {
+    background-color: gray;
+    color:grey
+    padding-top: 16px;
+    padding-left: 16px;
+ }
+
+ 
